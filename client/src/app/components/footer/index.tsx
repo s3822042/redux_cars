@@ -45,6 +45,7 @@ const CopyrightText = styled.small`
   font-size: 12px;
   ${tw`
     text-gray-300
+    text-center
   `}
 `;
 

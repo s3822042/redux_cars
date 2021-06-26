@@ -153,7 +153,7 @@ export function TopSection() {
   return (
     <TopSectionContainer>
       <LeftContainer>
-        <Slogan>Rent The Best Qulity Car's With Us</Slogan>
+        <Slogan>Rent The Best Quality Car's With Us</Slogan>
         <Description>
           Always choose the best car from our local stores or order it remotely
           at the best price for you and get the best quality cars for as long as
@@ -166,10 +166,10 @@ export function TopSection() {
       </LeftContainer>
       <RightContainer>
         <BlobContainer>
-          <img src={BlobImg} />
+          <img src={BlobImg} alt="blob image" />
         </BlobContainer>
         <StandaloneCar>
-          <img src={MclarenCarImg} />
+          <img src={MclarenCarImg} alt="mclaren car"/>
         </StandaloneCar>
       </RightContainer>
     </TopSectionContainer>
